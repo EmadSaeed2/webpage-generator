@@ -1,0 +1,26 @@
+{
+  "name": "webpage-generator",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmadSaeed2/webpage-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmadSaeed2/webpage-generator/issues"
+  },
+  "homepage": "https://github.com/EmadSaeed2/webpage-generator#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "path": "^0.12.7"
+  }
+}
