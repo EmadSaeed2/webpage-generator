@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/EmadSaeed2/webpage-generator#readme",
   "dependencies": {
-    "inquirer": "^9.1.4",
+    "inquirer": "^8.0.0",
     "path": "^0.12.7"
   }
 }
