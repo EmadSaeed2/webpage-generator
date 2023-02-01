@@ -105,8 +105,9 @@ const template = team => {
         </div>
     </div>
     <div class="container">
-        <div class="row">
+        <div class="row team-area justify-content-center">
                 ${generateTeam(team)}
+            </div>
         </div>
     </div>
 </body>
