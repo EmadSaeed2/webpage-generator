@@ -1,0 +1,24 @@
+.team-heading {
+    background: linear-gradient(180deg, rgba(197, 216, 109, 1) 0%, rgb(0, 0, 0) 100%);
+}
+
+.team-heading h1 {
+    color: #f8ffd7;
+    font-size: 3.5em;
+    font-weight: 500;
+}
+
+.card {
+    margin: 20px;
+    /* width: 22%; */
+    background-color: #ebff92;
+}
+
+.list-group-item {
+    background-color: #faffe2;
+}
+
+body {
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
